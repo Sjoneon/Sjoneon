@@ -1,31 +1,74 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&text=%20Developer&animation=twinkling&fontColor=ffffff&fontSize=35&fontAlignY=25&descAlignY=45&desc=Smart%20Daily%20Assistant%20Creator" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=120&text=%20Developer&animation=twinkling&fontColor=000000&fontSize=35&fontAlignY=25&descAlignY=45&desc=Smart%20Daily%20Assistant%20Creator" />
+  
+<h1 style="font-size: 1.5em;">송재원 | Jae-Won Song</h1>
+  <p><em>Computer Engineering Student | DaySync Developer</em></p>
+  
+  <img src="https://komarev.com/ghpvc/?username=sjoneon&style=flat&color=000000" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/sjoneon?style=flat&logo=github&logoColor=000000&color=ffffff" alt="GitHub Followers"/>
 </div>
 
-<div align="center">
-  <h2>🚀 송재원 | Jae-Won Song</h2>
-  <p><em>컴퓨터공학과 | 창업 캡스톤 디자인 개발자</em></p>
-  
-  <a href="mailto:spdjdps1649@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/Sjoneon">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  
-  <br><br>
-  
-  <img src="https://komarev.com/ghpvc/?username=sjoneon&style=flat-square&color=brightgreen" alt="Profile Views"/>
-  <img src="https://img.shields.io/github/followers/sjoneon?style=flat-square&logo=github&logoColor=white" alt="GitHub Followers"/>
-</div>
+<br>
 
 ---
 
-## 🎯 About Me
+<br>
 
-> **일상을 더 스마트하게 만드는 개발자**
-> 
-> AI 기반 일정 관리부터 실시간 교통 정보까지, 사용자의 하루를 편리하게 만드는 솔루션을 개발합니다.
+## Tech Stack
+
+<div align="center">
+
+![Android](https://img.shields.io/badge/Android-000000?style=flat-square&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat-square&logo=spring&logoColor=white)
+![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+![XML](https://img.shields.io/badge/XML-000000?style=flat-square&logo=xml&logoColor=white)
+
+</div>
+
+## Studying
+
+<div align="center">
+
+![Algorithm](https://img.shields.io/badge/Algorithm-ffffff?style=flat-square&logo=codechef&logoColor=black)
+![Python](https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=black)
+</div>
+
+## Tools
+
+<div align="center">
+
+![Android Studio](https://img.shields.io/badge/Android%20Studio-000000?style=flat-square&logo=android-studio&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-000000?style=flat-square&logo=figma&logoColor=white)
+
+</div>
+
+## Contact
+
+<div align="center">
+
+<a href="mailto:spdjdps1649@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-000000?style=flat-square&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
+<a href="https://github.com/Sjoneon">
+  <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+
+</div>
+
+<br>
+
+---
+
+<br>
+
+## About Me
+
+> *불편한 것을 편하게 바꾸기 위해 개발합니다*
 
 ```javascript
 const developer = {
@@ -33,22 +76,46 @@ const developer = {
     location: "South Korea 🇰🇷",
     major: "Computer Engineering",
     currentProject: "DaySync - AI 기반 일정 관리 앱",
-    interests: ["Mobile Development", "AI Integration", "User Experience"],
+    interests: ["Mobile Development", "Algorithm", "User Experience"],
     motto: "코드로 일상을 더 편리하게 ✨"
 };
 ```
 
-## 🏆 Featured Project: DaySync
+<br>
+
+## GitHub Analytics
 
 <div align="center">
-  <img src="https://img.shields.io/badge/DaySync-AI%20Daily%20Assistant-6366F1?style=for-the-badge&logo=android&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Status-Active%20Development-00D26A?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Type-Capstone%20Project-FF6B35?style=for-the-badge"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjoneon&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&hide=jupyter%20notebook"/>
 </div>
 
-**현재 개발 중인 DaySync**는 AI 기반 대화형 인터페이스를 통해 일정 관리, 경로 안내, 날씨 정보를 제공하는 종합 라이프스타일 앱입니다.
 
-### ✨ 핵심 기능
+
+<br>
+
+---
+
+<br>
+
+## 현재 개발 프로젝트
+
+<div align="center">
+  
+  ### DaySync
+  *AI 기반 스마트 일정 관리 앱*
+  
+  <img src="https://img.shields.io/badge/Status-In%20Development-ffffff?style=flat&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Type-Capstone%20Project-ffffff?style=flat&logoColor=black"/>
+  
+</div>
+
+<br>
+
+**DaySync**는 AI 챗봇을 통한 자연스러운 대화로 일정을 관리하고, 실시간 교통정보와 날씨를 제공하는 종합 라이프스타일 앱입니다.
+
+<br>
+
+### 핵심 기능
 
 <table>
 <tr>
@@ -81,88 +148,24 @@ const developer = {
 </tr>
 </table>
 
+<br>
 
-### 🛠️ 기술 스택
-
-<div align="center">
-
-**Frontend & Mobile**
-
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![XML](https://img.shields.io/badge/XML-FF6600?style=for-the-badge&logo=xml&logoColor=white)
-
-**Backend & Database**
-
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-
-**APIs & Services**
-
-![Naver Maps](https://img.shields.io/badge/Naver%20Maps-03C75A?style=for-the-badge&logo=naver&logoColor=white)
-![REST API](https://img.shields.io/badge/REST%20API-FF5722?style=for-the-badge&logo=api&logoColor=white)
-![공공데이터포털](https://img.shields.io/badge/공공데이터포털-0066CC?style=for-the-badge&logo=data&logoColor=white)
-
-**Development Tools**
-
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-</div>
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sjoneon&show_icons=true&theme=react&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjoneon&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9"/>
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sjoneon&theme=react&hide_border=true&background=0D1117&stroke=58A6FF&ring=58A6FF&fire=FF7C7C&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=58A6FF&sideLabels=58A6FF&dates=8B949E" alt="GitHub Streak"/>
-</div>
-
-## 🌟 활동 그래프
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sjoneon&theme=react-dark&bg_color=0D1117&color=58A6FF&line=58A6FF&point=C9D1D9&area=true&hide_border=true" width="100%"/>
-</div>
-
-## 💡 개발 철학
+### APIs & Services
 
 <div align="center">
 
-> *"불편한 것을 편하게 바꾸기 위해 개발합니다."*
-> 
-> 사용자 경험을 최우선으로 생각하며, 복잡한 기술을 간단하고 직관적인 인터페이스로 전달하는 것을 목표로 합니다.
+![Naver Maps](https://img.shields.io/badge/Naver%20Maps-ffffff?style=flat-square&logo=naver&logoColor=black)
+![REST API](https://img.shields.io/badge/REST%20API-ffffff?style=flat-square&logo=api&logoColor=black)
+![공공데이터포털](https://img.shields.io/badge/공공데이터포털-ffffff?style=flat-square&logo=data&logoColor=black)
 
 </div>
 
-### 🎯 현재 관심사
-
-- **🤖 AI/ML Integration**: 개인화된 사용자 경험 구현
-- **👨‍💻 Algorithm**: 알고리즘 학습 중 (Backjoon)
-- **☁️ Cloud Architecture**: 확장 가능한 백엔드 설계
-- **🚀 DevOps**: CI/CD 파이프라인 구축
-
-## 🤝 Connect With Me
-
-<div align="center">
-
-지금은 혼자 개발에 집중하고 있지만 협력은 언제나 하고 싶어요!
-
-<a href="mailto:spdjdps1649@gmail.com">
-  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-</a>
-
-</div>
+<br>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:434343,100:000000&height=80&section=footer" />
   
-  <sub>⚡ <strong>Building tomorrow's solutions, today</strong> ⚡</sub>
+  <sub><strong>Building tomorrow's solutions, today</strong></sub>
 </div>
