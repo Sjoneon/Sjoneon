@@ -61,6 +61,9 @@
 <a href="https://github.com/Sjoneon">
   <img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
 </a>
+<a href="https://sjoneon.github.io/">
+  <img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio"/>
+</a>
 
 </div>
 
