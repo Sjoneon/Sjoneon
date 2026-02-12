@@ -75,19 +75,11 @@
 > *불편한 것을 편하게 바꾸기 위해 개발합니다*
 
 - 서원대학교 컴퓨터공학과 재학 중 (2026.02 졸업예정)
-- 캡스톤 프로젝트 **DaySync** 개발 중 (AI 기반 일정 관리 앱)
+- SOS 프로젝트 리뉴얼 중
 - 알고리즘 공부 중
 - React 학습 중
 
 <br>
-
-## GitHub Analytics
-
-<div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sjoneon&layout=compact&theme=default&hide_border=true&bg_color=ffffff&title_color=000000&text_color=000000&hide=jupyter%20notebook"/>
-</div>
-
-
 
 <br>
 
