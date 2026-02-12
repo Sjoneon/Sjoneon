@@ -22,8 +22,12 @@
 ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-000000?style=flat-square&logo=spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-000000?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-000000?style=flat-square&logo=fastapi&logoColor=white)
+![C](https://img.shields.io/badge/C-000000?style=flat-square&logo=c&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
-![XML](https://img.shields.io/badge/XML-000000?style=flat-square&logo=xml&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle%20DB-000000?style=flat-square&logo=oracle&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-000000?style=flat-square&logo=fastapi&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS%20EC2-000000?style=flat-square&logo=amazonec2&logoColor=white)
 
 </div>
 
@@ -32,7 +36,7 @@
 <div align="center">
 
 ![Algorithm](https://img.shields.io/badge/Algorithm-ffffff?style=flat-square&logo=codechef&logoColor=black)
-![Python](https://img.shields.io/badge/Python-ffffff?style=flat-square&logo=python&logoColor=black)
+![React](https://img.shields.io/badge/React-ffffff?style=flat-square&logo=react&logoColor=black)
 </div>
 
 ## Tools
@@ -70,16 +74,10 @@
 
 > *불편한 것을 편하게 바꾸기 위해 개발합니다*
 
-```javascript
-const developer = {
-    name: "송재원",
-    location: "South Korea 🇰🇷",
-    major: "Computer Engineering",
-    currentProject: "DaySync - AI 기반 일정 관리 앱",
-    interests: ["Mobile Development", "Algorithm", "User Experience"],
-    motto: "코드로 일상을 더 편리하게 ✨"
-};
-```
+- 서원대학교 컴퓨터공학과 재학 중 (2026.02 졸업예정)
+- 캡스톤 프로젝트 **DaySync** 개발 중 (AI 기반 일정 관리 앱)
+- 알고리즘 공부 중
+- React 학습 중
 
 <br>
 
@@ -90,75 +88,6 @@ const developer = {
 </div>
 
 
-
-<br>
-
----
-
-<br>
-
-## 현재 개발 프로젝트
-
-<div align="center">
-  
-  ### DaySync
-  *AI 기반 스마트 일정 관리 앱*
-  
-  <img src="https://img.shields.io/badge/Status-In%20Development-ffffff?style=flat&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Type-Capstone%20Project-ffffff?style=flat&logoColor=black"/>
-  
-</div>
-
-<br>
-
-**DaySync**는 AI 챗봇을 통한 자연스러운 대화로 일정을 관리하고, 실시간 교통정보와 날씨를 제공하는 종합 라이프스타일 앱입니다.
-
-<br>
-
-### 핵심 기능
-
-<table>
-<tr>
-<td width="50%" align="center">
-
-**🤖 AI 챗봇 인터페이스**
-- 자연어 처리 기반 일정 등록
-- 스마트 알림 및 추천 시스템
-- 실시간 대화형 도우미
-
-**📅 스마트 일정 관리**
-- 직관적인 캘린더 UI
-- 다양한 알림 타입 지원
-- 부팅 시 자동 알람 복원
-
-</td>
-<td width="50%" align="center">
-
-**🗺️ 위치 기반 서비스**
-- 네이버 지도 API 연동
-- 실시간 버스 경로 안내
-- 즐겨찾기 장소 관리
-
-**🌤️ 날씨 정보**
-- 현재 위치 기반 날씨
-- 시간별/일별 예보
-- 날씨 기반 스케줄 추천
-
-</td>
-</tr>
-</table>
-
-<br>
-
-### APIs & Services
-
-<div align="center">
-
-![Naver Maps](https://img.shields.io/badge/Naver%20Maps-ffffff?style=flat-square&logo=naver&logoColor=black)
-![REST API](https://img.shields.io/badge/REST%20API-ffffff?style=flat-square&logo=api&logoColor=black)
-![공공데이터포털](https://img.shields.io/badge/공공데이터포털-ffffff?style=flat-square&logo=data&logoColor=black)
-
-</div>
 
 <br>
 
