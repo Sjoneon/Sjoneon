@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=120&text=%20Developer&animation=twinkling&fontColor=000000&fontSize=35&fontAlignY=25&descAlignY=45&desc=Backend%20%26%20AI%20Application%20Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:ffffff&height=120&text=%20Developer&animation=twinkling&fontColor=000000&fontSize=35&fontAlignY=25&descAlignY=45&desc=Smart%20Daily%20Assistant%20Creator" />
   
 <h1 style="font-size: 1.5em;">송재원 | Jae-Won Song</h1>
   <p><em>Backend Developer | HomeCare AI · DaySync · SOS Renewal</em></p>
